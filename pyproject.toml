@@ -1,6 +1,6 @@
 [project]
 name = "unicode-line-break-iterator"
-version = "0.1.1"
+version = "0.1.2"
 description = "Finds valid line break positions in text according to Unicode UAX #14 rules for layout engines"
 requires-python = ">=3.10"
 dependencies = []
